@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace CommonUtils
 {
-    public class Class1
+    public class HelloWord
     {
+        public string HelloWord()
+        {
+            return "HelloWorld";
+        }
     }
 }
