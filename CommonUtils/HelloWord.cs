@@ -8,7 +8,7 @@ namespace CommonUtils
 {
     public class HelloWord
     {
-        public string HelloWord()
+        public string SayHelloWord()
         {
             return "HelloWorld";
         }
